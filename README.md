@@ -29,3 +29,6 @@ When submitting pull requests, it is extremely helpful to isolate the changes yo
 1. Start by finding the file you want to edit in gpEasy's code repository at https://github.com/oyejorge/gpEasy-CMS.
 2. Once you have located the file, navigate to the code view and click "Edit". For example, if you want to change the /include/common.php file, the "Edit" button would appear on this page: https://github.com/oyejorge/gpEasy-CMS/blob/master/include/common.php
 3. Now, edit the file as you like then click "Propose File Change"
+4. 
+
+###Empty Section###
